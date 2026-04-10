@@ -1,7 +1,4 @@
 {
   "name": "is-this-a-good-deal",
-  "private": true,
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.87.0"
-  }
+  "private": true
 }
