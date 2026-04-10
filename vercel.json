@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/roast", "destination": "/api/roast.js" }
+  ]
+}
